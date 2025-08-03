@@ -247,5 +247,3 @@ This tool is intended for educational and research purposes. Users are responsib
 Always obtain permission before scraping websites and respect rate limits and robots.txt files.
 
 ---
-
-**Made with ❤️ and PHP** | **Star ⭐ this repo if you find it helpful!**
